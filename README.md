@@ -3,7 +3,6 @@
 🔭 Computer Science Student at Georgia Tech <br />
 🧑🏻‍💻 Studying the Cyber Security and Intelligence Threads <br />
 📱 Enjoy Mobile App Development! <br />
-📫 Check out my [LinkedIn] (https://www.linkedin.com/in/amar-nangia/) <br />
 
 
 ## 🌐 Socials:
